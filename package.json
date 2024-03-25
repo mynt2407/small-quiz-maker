@@ -2,7 +2,7 @@
   "name": "small-quiz-maker-application",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://duynn03.github.io/small-quiz-maker-application/",
+  "homepage": "https://mynt2407.github.io/small-quiz-maker/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
     "@testing-library/jest-dom": "^5.17.0",
