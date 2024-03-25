@@ -1,0 +1,1 @@
+export const GET_LIST_QUESTION = "GET_LIST_QUESTION";
